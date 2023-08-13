@@ -1,11 +1,17 @@
-# Temperature Converter using Vite + Vue 3
+# DevProjects - Temperature converter website
 
-## Temperature Supported
-- Celsius
-- Farenheit
+This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
+Find the project requirements here: [Temperature converter website](https://www.codementor.io/projects/web/temperature-converter-website-atx32dy7mf)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Tech/framework used
+Built with Vite + Vue 3
 
-## Recommended IDE Setup
+## Installation
+- Clone the repository
+- Install NPM
+- Check the code.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
+
